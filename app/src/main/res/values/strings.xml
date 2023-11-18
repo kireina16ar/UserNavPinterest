@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NavPinterest</string>
+    <string name="title_home">Home</string>
+    <string name="title_person">Person</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_add">Add</string>
+    <string name="title_search">Search</string>
+    <string name="homePage">Home Page</string>
+    <string name="addPage">AddPage</string>
+    <string name="notificationsPage">NotificationsPage</string>
+    <string name="personPage">PersonPage</string>
+    <string name="searchPage">SearchPage</string>
+</resources>
