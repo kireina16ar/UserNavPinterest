@@ -39,31 +39,24 @@ Kelompok:
 
 # 5 Apps Yang Memakai Bottom Navigation:
 
-<div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-    <div style="margin-bottom: 10px;">
-        <strong>1. Tiktok</strong>
-        <img src="https://github.com/kireina16ar/UserNavPinterest/blob/main/Pic%206.jpg" height="300">
-    </div>
+1. **Tiktok**
+   
+   <img src="https://github.com/kireina16ar/UserNavPinterest/blob/main/Pic%206.jpg" height="300" style="margin-right: 10px;">
 
-    <div style="margin-bottom: 10px;">
-        <strong>2. X(Twitter)</strong>
-        <img src="https://github.com/kireina16ar/UserNavPinterest/blob/main/Pic%207.jpg" height="300">
-    </div>
+3. **X(Twitter)**
+   
+   <img src="https://github.com/kireina16ar/UserNavPinterest/blob/main/Pic%207.jpg" height="300" style="margin-right: 10px;">
 
-    <div style="margin-bottom: 10px;">
-        <strong>3. Gojek</strong>
-        <img src="https://github.com/kireina16ar/UserNavPinterest/blob/main/Pic%208.jpg" height="300">
-    </div>
+5. **Gojek**
+   
+   <img src="https://github.com/kireina16ar/UserNavPinterest/blob/main/Pic%208.jpg" height="300" style="margin-right: 10px;">
 
-    <div style="margin-bottom: 10px;">
-        <strong>4. TIX ID</strong>
-        <img src="https://github.com/kireina16ar/UserNavPinterest/blob/main/Pic%209.jpg" height="300">
-    </div>
+7. **TIX ID**
+   
+   <img src="https://github.com/kireina16ar/UserNavPinterest/blob/main/Pic%209.jpg" height="300" style="margin-right: 10px;">
 
-    <div style="margin-bottom: 10px;">
-        <strong>5. Instagram</strong>
-        <img src="https://github.com/kireina16ar/UserNavPinterest/blob/main/Pic%2010.jpg" height="300">
-    </div>
-</div>
+9. **Instagram**
+    
+   <img src="https://github.com/kireina16ar/UserNavPinterest/blob/main/Pic%2010.jpg" height="300" style="margin-right: 10px;">
 
 
